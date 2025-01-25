@@ -2,7 +2,7 @@
 
 @php
     // Clases por defecto del título
-    $defaultClass = "font-bold my-4 ";
+    $defaultClass = '';
 @endphp
 
 {{-- Se averigua qué tipo de título que se estableció y se muestra el título con ciertas clases adicionales --}}
